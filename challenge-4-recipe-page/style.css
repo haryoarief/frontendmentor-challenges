@@ -20,7 +20,8 @@ body {
   background-color: hsl(29, 53%, 90%);
   display: flex;
   justify-content: center;
-  padding-top: 40px;
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
 
 main {
@@ -35,6 +36,7 @@ main {
   body {
     background-color: white; /* ubah jadi putih */
     padding-top: 0;
+    padding-bottom: 0;
   }
 
   main {
